@@ -16,3 +16,27 @@ body{
     
 
 }
+.titulo{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img1{
+    height: 193px;
+    width: 300px;
+    background-image:url("circuitoserie.jpg") ;
+    background-repeat: no-repeat;
+}
+.img2{
+    height: 193px;
+    width: 300px;
+    background-image:url("imagenes.jpg") ;
+    background-repeat: no-repeat;
+}  
+.img3{
+    height: 193px;
+    width: 300px;
+    background-image:url("imag.jpg") ;
+    background-repeat: no-repe 
+}
